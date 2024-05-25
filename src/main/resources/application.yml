@@ -1,6 +1,7 @@
 server:
   servlet:
-    context-path: /filemanager
+    context-path: /file-manager
+---
 spring:
   application:
     name: filemanager
@@ -14,3 +15,4 @@ spring:
   h2:
     console:
       enabled: true
+---

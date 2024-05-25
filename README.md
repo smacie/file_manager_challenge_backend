@@ -1,4 +1,5 @@
-# file_upload_backend
+# File Manager API
+# Problem
 Please implement the challenge below with Java. It is not necessary to fulfil all below objectives. 
 Consider any best coding practices you would use in your daily work. 
 Web-Service 
@@ -18,3 +19,10 @@ logest 100 lines
 Ruturn the 100 longest lines of all files uploaded 
 20 longest line of one file 
 Return the 20 longest lines of one file uploaded (choose file randomly or choose latest file) 
+
+# Solution
+● Documentation<br>
+http://< server>:<port>/file-manager/v3/api-docs (http://localhost:8080/file-manager/v3/api-docs)<br>
+http://< server>:<port>file-manager/swagger-ui/index.html (http://localhost:8080/file-manager/swagger-ui/index.html)<br>
+
+<i>Author: Salomão Macie Júnior  <a>salomaomaciejunior1@gmail.com</a>
